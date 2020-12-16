@@ -1,9 +1,7 @@
 import pyttsx3 #pip install pyttsx3
 import speech_recognition as sr #pip install SpeechRecognition
-from playsound import playsound
 #pip install pipwin
 #pipwin install PyAudio
-#pip install playsound
 
 engine= pyttsx3.init()
 
